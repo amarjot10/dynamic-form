@@ -1,0 +1,27 @@
+.form-card,
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.add-another-form-button {
+  display: block;
+  margin: 16px 0;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.add-another-form-button:hover {
+  background-color: #0056b3;
+}
+
+.submissions-container {
+  margin-top: 16px;
+}
